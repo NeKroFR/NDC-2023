@@ -21,7 +21,7 @@ La difficultée augmente au fur et à mesure que vous progressez tous les 5 nive
 # Installation
 ```
 git clone https://github.com/NeKroFR/NDC-2023.git
-pip3 install pyxel==1.9.0
+pip3 install -U pyxel
 ```
  
  <p align="center">big up à <a href= "https://github.com/Zwarex">LOSCRAKOS</a></p>
